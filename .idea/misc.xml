@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/drawable/rounded_corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/font/open_sans_bold.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_capture_model.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_food_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_load.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_main.xml" value="0.34679543459174716" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_menu.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_menu_item.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_model.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/activity_text.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/allmenu_recycler_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/dialog_load_model.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/fragment_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/fragment_notifications.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/popular_recycler_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/layout/recommended_recycler_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/menu/menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/menu/model.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/xml/filepaths.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/app/src/main/res/xml/splash_main_bg.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/drawable/home_material_rl_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/drawable/home_model_rl_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/drawable/mine_login_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/drawable/splash_app_bg.xml" value="0.3828125" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/activity_capture_material.xml" value="0.4" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/activity_chooser.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/activity_file_picker.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/activity_human_skeleton.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/empty_select_activity.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/history_activity_layout.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/history_data_fragment_layout.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/home_fragment_layout.xml" value="0.4" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/new_scan_layout.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/select_model_dialog_layout.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/select_source_photo_layout.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/title_layout.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/y84199799/AndroidStudioProjects/Menu3D/modelingResource/src/main/res/layout/turntable_speed_layout.xml" value="0.34739583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
