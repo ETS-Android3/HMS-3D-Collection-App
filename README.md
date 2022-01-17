@@ -8,6 +8,13 @@
 # Introduction
 
 In this documentation we explained development steps of 3D Modelling Collection App.
+This project help to generate 3d model and show them in the application like collection an item in the personal wallet. 
+
+#Functions
+- Show collected objects with model viewer
+- Shoot photos and collect them
+- Upload photos to HMS cloud for Reconstruct
+- Download 3D Model
 
 # Compatibility
 
